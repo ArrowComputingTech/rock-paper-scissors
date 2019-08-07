@@ -1,0 +1,21 @@
+body
+{
+    background-color: black;
+    color: #ffffff;
+}
+input[type=text]
+{
+    margin: 10px;
+    padding: 4px;
+}
+input[type=button] 
+{
+    background-color: rgb(207, 0, 0);
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+    margin: 10px ;
+    cursor: pointer;
+}
